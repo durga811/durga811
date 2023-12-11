@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Durga Prasad Pradhan
-- 👀 I’m interested in web3  and web2 Devlopement
-- 🌱 I’m currently learning  ethereum blockchain devlopement
+- 👀 I’m interested in ML and web Devlopement
+- 🌱 I’m currently exploring Machine Learning and LLM.
 <!-- - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me ... -->
 
