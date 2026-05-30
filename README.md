@@ -41,8 +41,3 @@ Core engineer focused on shipping full-stack products — from database and infr
   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=durga811&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
 </p>
 
----
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/durga811">LinkedIn</a> · <a href="mailto:pradhandurgaprasad8114@gmail.com">Email</a>
-</p>
